@@ -1,0 +1,90 @@
+/Users/sg/AIProject/bin/python /Users/sg/PycharmProjects/AIProject/flappyBird.py
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
+
+ ****** Running generation 0 ******
+
+Population's average fitness: 2.70000 stdev: 1.24579
+Best fitness: 8.00000 - size: (1, 3) - species 1 - id 3
+Average adjusted fitness: 0.086
+Mean genetic distance 1.242, standard deviation 0.412
+Population of 20 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    0    20      8.0    0.086     0
+Total extinctions: 0
+Generation time: 3.617 sec
+
+ ****** Running generation 1 ******
+
+Population's average fitness: 2.36000 stdev: 0.17436
+Best fitness: 2.80000 - size: (1, 2) - species 1 - id 22
+Average adjusted fitness: 0.160
+Mean genetic distance 1.354, standard deviation 0.553
+Population of 20 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    1    20      2.8    0.160     1
+Total extinctions: 0
+Generation time: 3.240 sec (3.429 average)
+
+ ****** Running generation 2 ******
+
+Population's average fitness: 2.99500 stdev: 1.78086
+Best fitness: 8.50000 - size: (1, 2) - species 1 - id 54
+Average adjusted fitness: 0.126
+Mean genetic distance 1.384, standard deviation 0.455
+Population of 20 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    2    20      8.5    0.126     0
+Total extinctions: 0
+Generation time: 3.814 sec (3.557 average)
+
+ ****** Running generation 3 ******
+
+Population's average fitness: 5.94000 stdev: 15.47926
+Best fitness: 73.40000 - size: (1, 2) - species 1 - id 54
+Average adjusted fitness: 0.053
+Mean genetic distance 1.099, standard deviation 0.461
+Population of 20 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    3    20     73.4    0.053     0
+Total extinctions: 0
+Generation time: 27.619 sec (9.572 average)
+
+ ****** Running generation 4 ******
+
+Population's average fitness: 4.52000 stdev: 5.05031
+Best fitness: 20.00000 - size: (1, 2) - species 1 - id 81
+Average adjusted fitness: 0.130
+Mean genetic distance 0.821, standard deviation 0.409
+Population of 20 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    4    20     20.0    0.130     1
+Total extinctions: 0
+Generation time: 9.018 sec (9.461 average)
+
+ ****** Running generation 5 ******
+
+Population's average fitness: 3.58000 stdev: 4.11176
+Best fitness: 20.60000 - size: (1, 2) - species 1 - id 89
+Average adjusted fitness: 0.075
+Mean genetic distance 1.066, standard deviation 0.518
+Population of 20 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    5    20     20.6    0.075     2
+Total extinctions: 0
+Generation time: 9.524 sec (9.472 average)
+
+ ****** Running generation 6 ******
+
+Population's average fitness: 12.11500 stdev: 40.65023
+Best fitness: 189.10000 - size: (1, 2) - species 1 - id 119
+
+Best individual in generation 6 meets fitness threshold - complexity: (1, 2)
+
+Process finished with exit code 0
